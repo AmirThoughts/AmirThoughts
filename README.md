@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/tiny-people-testing-quality-assurance-software-isolated-flat-vector-illustration-cartoon-character-fixing-bugs-hardware-device-application-test-it-service-concept_74855-10172.jpg?w=2000&t=st=1668083196~exp=1668083796~hmac=096f5ad099e9e717e0a77dc2cee19d234862f332de22ac9df0d63f88807bf124)](https://skamirullah.com)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQFEB-hw6VFglQ/profile-displaybackgroundimage-shrink_350_1400/0/1640239165913?e=1673481600&v=beta&t=YCphulKSQxcAbRKOYNkhkJZLc0g6fij1nzzUS1UXNzQ)](https://skamirullah.com)
 
 <h1 align="center">Hi 👋, I'm Sk Amir Ullah</h1>
 <h3 align="center">Senior Quality Assurance Engineer</h3>
