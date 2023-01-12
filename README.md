@@ -15,9 +15,9 @@
 
 - 📝 I regularly write blogs on [https://skamirullah.com/blogs](https://skamirullah.com/blogs)
 
-- 💬 Ask me about Testing, Mythology & Cricket !
+- 💬 Ask me about **Testing, Bollywood & Cricket** !
 
-- 🤔 I’m looking for help with enhancing my Design Skills.
+- 🤔 I’m looking for help with enhancing my **Design** Skills.
 
 - 📄 Know about my experiences [https://skamirullah.com/my-skills](https://skamirullah.com/my-skills)
 
