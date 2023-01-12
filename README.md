@@ -1,4 +1,6 @@
-[![MasterHead](https://www.linkpicture.com/q/imgonline-com-ua-resize-d8H57HAOai.png)](https://skamirullah.com)
+[![MasterHead](https://www.linkpicture.com/q/AMIR-1.gif)](https://skamirullah.com)
+
+
 
 <h1 align="center">Hi 👋, I'm Sk Amir Ullah</h1>
 <h3 align="center">Senior Quality Assurance Engineer</h3>
@@ -9,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/amirthoughts1" target="blank"><img src="https://img.shields.io/twitter/follow/amirthoughts1?logo=twitter&style=for-the-badge" alt="amirthoughts1" /></a> </p>
 
-- 🔭 I’m currently working on **Advertisement Domain**
+- 🔭 I’m currently working on **Advertisement Domain** https://www.linkpicture.com/q/imgonline-com-ua-resize-d8H57HAOai.png
 
 - 🌱 I’m currently learning **Security Testing**
 
