@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQFEB-hw6VFglQ/profile-displaybackgroundimage-shrink_350_1400/0/1640239165913?e=1673481600&v=beta&t=YCphulKSQxcAbRKOYNkhkJZLc0g6fij1nzzUS1UXNzQ)](https://skamirullah.com)
+[![MasterHead](https://www.linkpicture.com/q/imgonline-com-ua-resize-d8H57HAOai.png)](https://skamirullah.com)
 
 <h1 align="center">Hi 👋, I'm Sk Amir Ullah</h1>
 <h3 align="center">Senior Quality Assurance Engineer</h3>
