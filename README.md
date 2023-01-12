@@ -11,21 +11,19 @@
 
 <p align="left"> <a href="https://twitter.com/amirthoughts1" target="blank"><img src="https://img.shields.io/twitter/follow/amirthoughts1?logo=twitter&style=for-the-badge" alt="amirthoughts1" /></a> </p>
 
-- 🔭 I’m currently working on **Advertisement Domain**
+- 🌱 I’m currently working on Industrial **Automation, UI, API, DB and Mobile App Automation Testing** projects.
 
-- 🌱 I’m currently learning **Security Testing**
+- 📝 I regularly write blogs on [https://skamirullah.com/blogs](https://skamirullah.com/blogs)
 
-- 👨‍💻 All of my projects are available at [https://skamirullah.com/projects](https://skamirullah.com/projects)
+- 💬 Ask me about Testing, Mythology & Cricket !
 
-- 📝 I regularly write articles on [https://skamirullah.com/blogs](https://skamirullah.com/blogs)
+- 🤔 I’m looking for help with enhancing my Design Skills.
 
-- 💬 Ask me about **Web, API, GraphQL and Database Testing**
-
-- 📫 How to reach me **amirthoughts@gmail.com**
-
-- 📄 Know about my experiences [https://skamirullah.com/resume](https://skamirullah.com/resume)
+- 📄 Know about my experiences [https://skamirullah.com/my-skills](https://skamirullah.com/my-skills)
 
 - ⚡ Fun fact **Power naps is a booster for me**
+
+- 📫 You can reach me at **amirthoughts@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
