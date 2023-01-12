@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkpicture.com/q/Final.gif)](https://skamirullah.com)
+[![MasterHead](https://www.linkpicture.com/q/imgonline-com-ua-resize-d8H57HAOai.png)](https://skamirullah.com)
 
 
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/amirthoughts1" target="blank"><img src="https://img.shields.io/twitter/follow/amirthoughts1?logo=twitter&style=for-the-badge" alt="amirthoughts1" /></a> </p>
 
-- 🔭 I’m currently working on **Advertisement Domain** https://www.linkpicture.com/q/imgonline-com-ua-resize-d8H57HAOai.png
+- 🔭 I’m currently working on **Advertisement Domain**
 
 - 🌱 I’m currently learning **Security Testing**
 
