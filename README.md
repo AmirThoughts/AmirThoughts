@@ -19,7 +19,7 @@
 
 - 🤔 I’m looking for help with enhancing my **Design** Skills.
 
-- 📄 Know about my experiences [https://skamirullah.com/my-skills](https://skamirullah.com/my-skills)
+- 📄 Know about my experiences [https://www.skamirullah.com/my-skils/](https://www.skamirullah.com/my-skils/)
 
 - ⚡ Fun fact **Power naps is a booster for me**
 
